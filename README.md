@@ -1,5 +1,3 @@
-# Programming Contest Aggregator
-
 ## Overview
 The Programming Contest Aggregator is a Python - based project designed to simplify the process of tracking upcoming programming contests. It fetches information from popular platforms such as LeetCode, Codeforces, AtCoder, and Nowcoder, then consolidates it into a single, user - friendly HTML page. The data is updated periodically, ensuring you always have access to the latest contest schedules.
 
